@@ -1,7 +1,7 @@
 import { Image, StyleSheet, Text, View, ScrollView } from 'react-native';
 export default function HomeScreen() {
   return (
-    <ScrollView  style = {{backgroundColor: '#A1CEDC'}}>
+    <ScrollView  style = {{backgroundColor: 'black'}}>
         <View><Text>Lil Mussi BIg NIgge</Text></View>
     </ScrollView>
   );
